@@ -81,6 +81,3 @@ def loaddata(parag):
 
 parag = input("Enter a paragraph:\n")
 print(loaddata(parag))
-
-
-
