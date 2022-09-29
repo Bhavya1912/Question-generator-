@@ -1,4 +1,4 @@
-# Question-gene
+# Question-gene(NLP)
 A dead simple in-text question generator. <br>
 #Uses TextBlob, nltk<br>
 
